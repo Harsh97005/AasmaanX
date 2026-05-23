@@ -1,4 +1,4 @@
-# ⬡ Aether Weather
+# ⬡   AASMAANX Weather
 
 A modern, high-precision weather dashboard built with React, Vite, Tailwind CSS, and the OpenWeatherMap API.
 
